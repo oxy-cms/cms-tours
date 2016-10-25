@@ -15,6 +15,6 @@ There were 5 station
 * Arduino
 * Raspberry Pi
 * Processing.org (two stations)
-* SketchUp
+* SketchUp - [3d files are here](https://drive.google.com/drive/folders/0B74FZZww1Rz1SERqM3YzRDFpRTA?usp=sharing)
 
 Code produced by the class groups are in these directories.
